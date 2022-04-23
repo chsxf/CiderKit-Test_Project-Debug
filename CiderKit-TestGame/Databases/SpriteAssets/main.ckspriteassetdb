@@ -1,0 +1,91 @@
+{
+  "id" : "main",
+  "isDefault" : true,
+  "spriteAssets" : [
+    {
+      "name" : "Test Asset",
+      "root" : {
+        "c" : [
+          {
+            "cb" : 1,
+            "cl" : {
+              "cmp" : [
+                1,
+                0,
+                0.016666666666666621,
+                1
+              ],
+              "csn" : "kCGColorSpaceGenericRGB"
+            },
+            "n" : "New element",
+            "o" : [
+              0,
+              0
+            ],
+            "r" : 0,
+            "s" : {
+              "a" : "default_tile",
+              "s" : "default_elevation_left"
+            }
+          }
+        ],
+        "cb" : 0,
+        "cl" : {
+          "cmp" : [
+            1,
+            1
+          ],
+          "csn" : "kCGColorSpaceGenericGrayGamma2_2"
+        },
+        "n" : "root",
+        "o" : [
+          0,
+          0
+        ],
+        "r" : 0
+      },
+      "uuid" : "105BD8A7-C8AA-4681-B9D8-39699AB83F58"
+    },
+    {
+      "name" : "New Sprite Asset 2",
+      "root" : {
+        "cb" : 0,
+        "cl" : {
+          "cmp" : [
+            1,
+            1
+          ],
+          "csn" : "kCGColorSpaceGenericGrayGamma2_2"
+        },
+        "n" : "root",
+        "o" : [
+          0,
+          0
+        ],
+        "r" : 0
+      },
+      "uuid" : "3BEB92D2-5F6F-4FD0-B532-3F5E369452B6"
+    },
+    {
+      "name" : "New Sprite Asset 3",
+      "root" : {
+        "cb" : 0,
+        "cl" : {
+          "cmp" : [
+            1,
+            1
+          ],
+          "csn" : "kCGColorSpaceGenericGrayGamma2_2"
+        },
+        "n" : "root",
+        "o" : [
+          0,
+          0
+        ],
+        "r" : 0
+      },
+      "uuid" : "96F54B31-2F54-4CB3-AD43-6F38F9C01E58"
+    }
+  ],
+  "version" : "0.1"
+}

@@ -1,0 +1,81 @@
+{
+    "regions": [
+        {
+            "x": 2,
+            "y": 0,
+            "width": 4,
+            "height": 4,
+            "elevation": 3
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "width": 2,
+            "height": 2,
+            "elevation": 5
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "width": 2,
+            "height": 2,
+            "elevation": 4
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "width": 2,
+            "height": 3,
+            "elevation": 4,
+            "materialOverrides": {
+                "g": [
+                    null,
+                    null,
+                    {
+                        "i": { "si": 1 }
+                    }
+                ]
+            }
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "width": 2,
+            "height": 3,
+            "elevation": 6
+        }
+    ],
+    "lighting": {
+        "ambientLight": {
+            "r": 0.1,
+            "g": 0.1,
+            "b": 0.1
+        },
+        "lights": [
+            {
+                "n": "Main Light",
+                "x": 10,
+                "y": 2,
+                "z": 20,
+                "r": 1,
+                "g": 1,
+                "b": 1,
+                "fn": 10,
+                "ff": 15,
+                "fe": 0.5
+            },
+            {
+                "n": "Detail Light 01",
+                "x": 1,
+                "y": 1,
+                "z": 5,
+                "r": 1,
+                "g": 0,
+                "b": 0,
+                "fn": 0.5,
+                "ff": 1,
+                "fe": 1
+            }
+        ]
+    }
+}

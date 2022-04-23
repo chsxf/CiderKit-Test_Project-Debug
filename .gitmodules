@@ -1,0 +1,3 @@
+[submodule "CiderKit"]
+	path = CiderKit
+	url = https://github.com/chsxf/CiderKit.git
